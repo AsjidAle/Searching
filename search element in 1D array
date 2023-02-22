@@ -12,6 +12,7 @@ int main(){
         }
         i++;
     }
+    
     (i>9)?std::cout<<"Element not exists":std::cout<<"Element is at "<<i<<" index";
     return 0;
 }
